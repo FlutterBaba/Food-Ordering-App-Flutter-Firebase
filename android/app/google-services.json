@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "392513781141",
+    "firebase_url": "https://tasteeapp-b128a.firebaseio.com",
+    "project_id": "tasteeapp-b128a",
+    "storage_bucket": "tasteeapp-b128a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392513781141:android:63b849ee04bf578b824a9c",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392513781141-mpda1cp17m29753h1n545bta6p5ators.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DAsNJ7OxbY3q0odxlbtQ36I3c3wCLLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392513781141-mpda1cp17m29753h1n545bta6p5ators.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
